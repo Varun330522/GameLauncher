@@ -1,5 +1,5 @@
 {
-  "name": "Electron-GameApp",
+  "name": "electron-gameapp",
   "version": "1.0.0",
   "main": "main.js",
   "devDependencies": {
@@ -10,6 +10,11 @@
   },
   "dependencies": {
     "axios": "^0.26.0",
-    "fetch-installed-software": "0.0.7"
-  }
+    "fs-extra": "^10.1.0",
+    "icon-extractor": "^1.0.3",
+    "uniqid": "^5.4.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
